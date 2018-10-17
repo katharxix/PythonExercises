@@ -1,0 +1,2 @@
+# PythonExercises
+Autostudy python exercises
