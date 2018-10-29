@@ -7,12 +7,3 @@ for i in s:
     elif i.isupper():
         print(i.lower())
 
-
-
-
-
-
-
-#if len(phrase)<=1000:
-   # for i in phrase (0,1000):
-    #    if i
