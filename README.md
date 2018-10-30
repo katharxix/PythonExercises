@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Autostudy Python Exercises (Beginner) :snake:
 
-You can use the [editor on GitHub](https://github.com/katharxix/PythonExercises/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This scripts was resolved with the only purpose for study and practice
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Getting Started 
 
-### Markdown
+Python program can be done in two ways: calling the Python interpreter with a shebang line, and using the interactive Python shell.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Prerequisites
 
-```markdown
-Syntax highlighted code block
+You have installed Python itself. If you’re using macOS or Linux, your computer already has Python installed. You can get Python from [Link](python.org). For this exercices Python version 3.7
 
-# Header 1
-## Header 2
-### Header 3
+A Python IDE to preference to work with PyCharm CE or Professional
 
-- Bulleted
-- List
+### Installing
 
-1. Numbered
-2. List
+**Configure a system Python interpreter**
 
-**Bold** and _Italic_ and `Code` text
+Choosing which interpreter to use for a project is an important decision. Python is a script language, which means that your code is converted to machine code by a Python interpreter.
 
-[Link](url) and ![Image](src)
-```
+You can have multiple versions of Python installed on your computer, and you need to choose the one you’d like for this project. Note that you can always change your mind later and specify another interpreter for your project.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Authors
 
-### Jekyll Themes
+* **Karen Chaves** -  - [katharxix](https://github.com/katharxix)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/katharxix/PythonExercises/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+See also the list of [contributors](https://github.com/katharxix/PythonExercises/settings/collaboration) who participated in this project.
 
-### Support or Contact
+## Acknowledgments
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* PSL Team
+
+
