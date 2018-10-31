@@ -1,9 +1,13 @@
 print("convert strings")
-s = input("Type a word: ")
-
-for i in s:
+word = input("Type a word: ")
+output = ""
+for i in word:
     if i.islower():
-        print(i.upper())
+        output =output+i.upper()
     elif i.isupper():
-        print(i.lower())
+        i.lower()
+        output = output+i.lower()
+
+print(output)
+
 
