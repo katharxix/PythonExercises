@@ -1,2 +1,2 @@
 def Pots():
-   print :("I'm Pots Phone")
+   print ("I'm Pots Phone")
