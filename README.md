@@ -20,6 +20,17 @@ Choosing which interpreter to use for a project is an important decision. Python
 
 You can have multiple versions of Python installed on your computer, and you need to choose the one you’d like for this project. Note that you can always change your mind later and specify another interpreter for your project.
 
+### Deployment
+
+This repo contains: one branch called "Master",  includes 3 directories with proposed exercises resolved in Python scripts with .py extension defined as follows:
+
+- HackerRank Exercises (If-Else, Loops, Swap Case, String Split and Join, String Formatting)
+- Exercises 1 Video (Max Value, Mean function and Print Data scripts) 
+- Exercises 2 Video (Email input validation, odd numbers and Password validation)
+- Module exercises (Import statement, Locating Modules)
+- External Files Exercises( Json data conversion, functions)
+
+
 ## Authors
 
 * **Karen Chaves** -  - [katharxix](https://github.com/katharxix)
