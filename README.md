@@ -28,7 +28,7 @@ This repo contains: one branch called "Master",  includes 3 directories with pro
 - Exercises 1 Video (Max Value, Mean function and Print Data scripts) 
 - Exercises 2 Video (Email input validation, odd numbers and Password validation)
 - Module exercises (Import statement, Locating Modules)
-- External Files Exercises( Json data conversion, functions)
+- External Files Exercises( Json data conversion into a Python object, functions)
 
 
 ## Authors
